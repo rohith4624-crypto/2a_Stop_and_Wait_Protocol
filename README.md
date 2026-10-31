@@ -38,9 +38,13 @@ while True:
         break
 ```
 ## OUTPUT
+
 ## client:
+
 <img width="630" height="152" alt="image" src="https://github.com/user-attachments/assets/5240f818-1c45-460e-8604-c511097b0884" />
+
 ## server:
+
 <img width="626" height="245" alt="image" src="https://github.com/user-attachments/assets/02ff7bfc-8aaa-4572-a441-28e1e4785d43" />
 
 ## RESULT
